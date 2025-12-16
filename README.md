@@ -1,3 +1,3 @@
 # Demo
 this is my first repo
-Author - Mrudula Mirge
+Author - Mrudula Mirge(CSE)
